@@ -1,0 +1,1 @@
+Atividade feita durante a aula regressão linear. Foram apresentados a biblioteca PyTorch. Essa atividade fizemos pelo NumPy
