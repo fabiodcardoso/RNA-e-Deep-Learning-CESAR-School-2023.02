@@ -1,0 +1,1 @@
+Atividadce da aula 2.4 onde foi pedido o cálculo do novo valor da perda (J) com um Learnig Rate de 0.1. 
