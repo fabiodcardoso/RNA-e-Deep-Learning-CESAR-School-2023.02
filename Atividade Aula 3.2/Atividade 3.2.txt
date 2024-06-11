@@ -1,0 +1,1 @@
+Atividade de Regressão Logpsitica utilizando o MNIST.
