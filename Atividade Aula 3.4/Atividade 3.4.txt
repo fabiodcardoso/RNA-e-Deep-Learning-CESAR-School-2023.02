@@ -1,0 +1,1 @@
+Apresentação do modelo de regressão logistica usando o método de batchs.
