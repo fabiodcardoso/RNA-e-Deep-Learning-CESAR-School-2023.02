@@ -1,0 +1,1 @@
+Atividade de fixação da biblioteca pytorch. Nesse colab aprendemos a fazer todos os cálculos na biblioteca Pytorch. A novidade foi a utilização das fuinções criterion() e optimizer()
